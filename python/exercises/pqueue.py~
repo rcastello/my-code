@@ -1,0 +1,24 @@
+EmptyQueue = 3
+
+class PriorityQueue():
+
+    def __init__(self):
+        # self._dict={0:[], 1:[], 2:[], ...} 
+        self._list=[[],[],[],[],[],[]]
+        
+    def __len__(self):
+        pass
+        #return len(self._list)
+        
+    def add(self, item, priority=2):
+        
+        self._list[priority].append(item)
+        
+        #self._list.append()
+        #if priority ==1:
+        #self._list.insert(0,item)
+            
+    def pop(self):
+        return self._list.pop(0)
+    
+    
