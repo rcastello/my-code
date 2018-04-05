@@ -5,7 +5,7 @@ Branches:
 
 python_course_dec2017 --> for developements concerning the exercises of the course
 
-machine_learning_EPFL --> for developement concerning ML projects at EPFL
+grid_gva              --> for developement concerning projects at GRID-GVA (http://www.grid.unep.ch)
 
 machine_learning_CERN --> for development concerning ML project at CERN
 
