@@ -8,8 +8,8 @@ Python 3.6 and basic libraries ( numpy, matplotlib, etc..) and Data Cube API ( h
 
 ## Authors
 
-Roberto Castello (roberto.castelloATepfl.ch)  and Erica.Honeck (Erica.HoneckATunige.ch)
+Roberto Castello (roberto.castelloATepfl.ch)  and Erica Honeck (Erica.HoneckATunige.ch)
 
 ## Acknowledgments
 
-GRID Geneva team ( http://www.swissdatacube.org/index.php/team/ ) and UNIGE collaborators (http://www.unige.ch/envirospace/) 
+The GRID Geneva team ( http://www.swissdatacube.org/index.php/team/ ) and UNIGE collaborators (http://www.unige.ch/envirospace/) 
