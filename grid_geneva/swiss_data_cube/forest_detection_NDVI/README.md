@@ -8,7 +8,7 @@ Python 3.6 and basic libraries ( numpy, matplotlib, etc..) and Data Cube API ( h
 
 ## Authors
 
-Roberto Castello (roberto.castello@epfl.ch)  and Erica.Honeck (Erica.Honeck@unige.ch)
+Roberto Castello (roberto.castelloATepfl.ch)  and Erica.Honeck (Erica.HoneckATunige.ch)
 
 ## Acknowledgments
 
