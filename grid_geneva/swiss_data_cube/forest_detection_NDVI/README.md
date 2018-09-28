@@ -1,6 +1,6 @@
-# A NDVI-based forest detection algorithm using EO from Swiss Data Cube
+# A NDVI-based forest detection algorithm using EO from SDC
 
-Basic version of the framework for forest detection in CH using NDVI analysis from Swiss Data Cube time series (http://www.swissdatacube.org/) and quantification of its accuracy.
+Basic version of the framework for forest detection in Switzerland using NDVI analysis from Swiss Data Cube time series (http://www.swissdatacube.org/) and quantification of its accuracy.
 
 ## Prerequisites
 
